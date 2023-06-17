@@ -59,7 +59,6 @@ Hakkında bilgilendirmeye yarayan bir üründür.
 - **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Slack üzerinden yapılmasına karar verilmiştir.
 
 - **Sprint board update**: Sprint board screenshotları: 
-![Backlog 1](https://raw.githubusercontent.com/OyunveUygulamaAkademisi/BootcampScrumTemplate/main/ProjectManagement/Sprint1Documents/backlog1.png)
 
 - **Sprint Review**: 
 Alınan kararlar: Oyunun teması ve genel hatları ile neler yapılacağı kararleştırıldı.
