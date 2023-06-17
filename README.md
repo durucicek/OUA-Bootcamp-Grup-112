@@ -28,6 +28,7 @@ Takım Unity 112
 3.	Geri dönüşüm yaklaşımı,
 Hakkında bilgilendirmeye yarayan bir üründür.
 •	Ürünün eğlence unsuru olarak görülüp kaliteli vakit geçirtme durumu mevcuttur.
+
 •	6 ve 6+ yaş kullanımı için uygundur.
 
 
