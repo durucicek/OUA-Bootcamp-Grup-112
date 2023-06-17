@@ -22,6 +22,7 @@ Takım Unity 112
 ## Ürün Özellikleri
 
 •	Ürünün mobil oyun olarak tasarlanmaktadır.
+
 •	Ürünün eğitici bir yönü mevcuttur;
 1.	Çöp ayrıştırma,
 2.	Çöp kutuları renkleri,
