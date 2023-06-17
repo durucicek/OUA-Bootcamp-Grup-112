@@ -35,11 +35,11 @@ Hakkında bilgilendirmeye yarayan bir üründür.
 
 ## Hedef Kitle
 
--Çocuk, genç , yetişkin kitle
--Çevreci gönüllüler
--Geri dönüşüm merkezleri
--Geri dönüşüm atık toplayıcıları
--Çevre temizliğine önem veren ve bunu öğrencilerine aşılamaya çalışan Eğitim kurumları
+* Çocuk, genç , yetişkin kitle
+* Çevreci gönüllüler
+* Geri dönüşüm merkezleri
+* Geri dönüşüm atık toplayıcıları
+* Çevre temizliğine önem veren ve bunu öğrencilerine aşılamaya çalışan Eğitim kurumları
 
 
 ## Product Backlog URL
